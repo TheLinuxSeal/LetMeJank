@@ -1,0 +1,6 @@
+libs/
+.gradle/
+.idea/
+build/
+gradle/
+run/
